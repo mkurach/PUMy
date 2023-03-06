@@ -2,6 +2,6 @@
 Codes from Mobile Device Programming laboratories. 
 
 **lab1**
-Tip calculator
+Tip calculator  
 - SeekBar nad TextView listeners
 
