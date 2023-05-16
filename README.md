@@ -14,3 +14,6 @@ Codes from Mobile Device Programming laboratories.
 - list of sensors
 - multichoice dialog 
 - string and arrays resources
+
+**lab4** - data base
+- SQLite data base saving data and reading
